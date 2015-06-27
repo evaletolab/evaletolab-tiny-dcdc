@@ -1,4 +1,4 @@
-# Low cost step-up 120ma DC-DC converter
+# Low cost step-up >80ma DC-DC converter
 An easy and tiny way to embed solar and a small battery to your electronic project.
 Using the [LTC3525](http://www.linear.com/product/LTC3525) you always get constant output voltage with the flexibility of a variable voltage input. Even at 1.2V as input the step-up keep >85% of the energy.
 
