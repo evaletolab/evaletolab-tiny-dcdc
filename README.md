@@ -1,5 +1,5 @@
-# Low cost step-up >80ma DC-DC converter
-An easy and tiny way to embed solar and a small battery to your electronic project.
+# Low cost, high efficiency, step-up DC-DC converter  
+This is an easy and tiny way to flexible small input battery to your MCU project.
 Using the [LTC3525](http://www.linear.com/product/LTC3525) you always get constant output voltage with the flexibility of a variable voltage input. Even at 1.2V as input the step-up keep >85% of the energy.
 
 * **ultra small case 6x11mm**
@@ -14,7 +14,7 @@ Using the [LTC3525](http://www.linear.com/product/LTC3525) you always get consta
 * Delivers 175mA at 5V from a 3V Input
 * <1μA Shutdown Current
 
-![efficiency](http://cds.linear.com/image/6470.png) 
+<!-- ![efficiency](http://cds.linear.com/image/6470.png) -->
 
 # The PCB
 ![The PCB board](https://raw.github.com/evaletolab/evaletolab-tiny-dcdc/master/docs/pcb.png "v0.0")
