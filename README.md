@@ -3,7 +3,7 @@ This is an easy and tiny way to flexible small input battery to your MCU project
 Using the [LTC3525](http://www.linear.com/product/LTC3525) you always get constant output voltage with the flexibility of a variable voltage input. Even at 1.2V as input the step-up keep >85% of the energy.
 
 * **ultra small case 6x11mm**
-* Input startup voltage min 0.7V avg at 0.85V
+* Input startup voltage at 0.7V or 0.85V
 * External solar panel input with diode protection
 * External small battery AAA 1.2V or a super capacitor
 * Up to 95% Efficiency
