@@ -16,6 +16,8 @@ Using the [LTC3525](http://www.linear.com/product/LTC3525) you always get consta
 
 ![efficiency](http://cds.linear.com/image/6470.png) 
 
+# The PCB
+![The PCB board](https://raw.github.com/evaletolab/evaletolab-tiny-dcdc/master/docs/pcb.png "v0.0")
 
 
 **THIS IS ALPHA SOFTWARE/HARDWARE AND SHOULD BE TREATED ACCORDINGLY.**
