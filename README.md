@@ -1,7 +1,7 @@
 # Low cost, high efficiency, step-up DC-DC converter  
 > [ input min 0.7V or 0.85V - output 3V, 3.3V or 5V - boost efficiency max 95% ]
 
-This is an easy and tiny way to flexible small input battery to your MCU project.
+This is an easy and tiny way to manage variable and small input voltage with your MCU project.
 Using the [LTC3525](http://www.linear.com/product/LTC3525) you always get constant output voltage with the flexibility of a variable voltage input. Even at 1.2V as input the step-up keep >85% of the energy.
 
 * **Up to 95% Efficiency**
