@@ -1,6 +1,8 @@
 # Low cost, high efficiency, step-up DC-DC converter  
 > [ input min 0.7V or 0.85V - output 3V, 3.3V or 5V - boost efficiency max 95% ]
 
+![see](https://c1.staticflickr.com/9/8018/7257815024_a1fe84bef0_b.jpg)
+
 This is an easy and tiny way to manage variable and small input voltage with your MCU project.
 Using the [LTC3525](http://www.linear.com/product/LTC3525) you always get constant output voltage whatever your input voltage. Even at 1.2V as input the step-up keep >85% of the energy.
 
